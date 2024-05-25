@@ -61,7 +61,7 @@ WD-SW2-TC03
    └─ about
       └─ assets
          └─ css
-            └─ about-style.css
+            └─ style.css
          └─ img
             └─ profile-picture.png
             └─ website.jpg
@@ -71,7 +71,7 @@ WD-SW2-TC03
    └─ experience
       └─ assets
          └─ css
-            └─ about-style.css
+            └─ style.css
          └─ img
             └─ profile-picture.png
             └─ website.jpg
@@ -81,7 +81,7 @@ WD-SW2-TC03
    └─ skills
       └─ assets
          └─ css
-            └─ about-style.css
+            └─ style.css
          └─ img
             └─ profile-picture.png
             └─ website.jpg
@@ -89,9 +89,9 @@ WD-SW2-TC03
             └─ script.js
       └─ index.html
    └─ contact
-      assets
+      └─ assets
          └─ css
-            └─ about-style.css
+            └─ style.css
          └─ img
             └─ profile-picture.png
             └─ website.jpg
@@ -99,6 +99,7 @@ WD-SW2-TC03
             └─ script.js
       └─ index.html
 └─ index.html
+
 ```
 ## Resources
 
