@@ -96,3 +96,20 @@ WD-Mikhail-Agero-Resume-Website
             └─ script.js
       └─ index.html
 └─ index.html
+Title	Purpose	Link
+HTML5 Boilerplate	HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web applications or sites.	HTML5 Boilerplate
+CSS Tricks - A Complete Guide to Flexbox	A comprehensive guide to Flexbox, a layout mode in CSS.	CSS Tricks - Flexbox Guide
+W3Schools - HTML5 Tutorial	A tutorial on HTML5, covering its basics, elements, attributes, and more.	W3Schools - HTML5 Tutorial
+MDN Web Docs - CSS Reference	A reference guide to CSS, covering its properties, values, and more.	MDN Web Docs - CSS Reference
+Codecademy - Learn CSS	An interactive course to learn CSS.	Codecademy - Learn CSS
+Traversy Media - HTML Crash Course for Busy People	A video course on HTML, covering its basics and more.	Traversy Media - HTML Crash Course
+Udemy - The Complete Web Developer in 2023: Zero to Mastery	A comprehensive course on web development, covering HTML, CSS, JavaScript, and more.	Udemy - Web Developer Course
+Stack Overflow - Link All Pages to Same CSS File	Provides guidance on linking all pages to the same CSS external file.	Stack Overflow - Link All Pages to Same CSS File
+GeeksforGeeks - Use CSS to Separate Content & Design	Explains how to use CSS to separate content and design in web development.	GeeksforGeeks - Use CSS to Separate Content & Design
+Hostinger - Link CSS to HTML Files	Tutorial on linking CSS to HTML files in web development.	Hostinger - Link CSS to HTML Files
+Canvas LMS - Add Profile Picture as a Student	Guide on adding a profile picture in Canvas LMS as a student.	Canvas LMS - Add Profile Picture as a Student
+Stack Overflow - Allow Users to Add Profile Image	Discusses allowing users to add an image for their profile.	Stack Overflow - Allow Users to Add Profile Image
+Artlogic Support - Change Website User's Profile Picture	Instructions on adding or changing a website user's profile picture.	Artlogic Support - Change Website User's Profile Picture
+it'seeze - Structure a Successful Homepage	Tips on structuring a successful homepage for a website.	it'seeze - Structure a Successful Homepage
+99designs - Content Structure for Homepage	Tips on structuring content effectively for a homepage.	99designs - Content Structure for Homepage
+Django Forum - Redirect Pagination Page After Data Update	Discussion on redirecting pagination page after updating data in Django.	Django Forum - Redirect Pagination Page After Data Update
