@@ -4,30 +4,20 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/mikhailagero/">
+    <img src="./assets/img/mikhailagero_logo.png" alt="Mikhail Agero" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Mikhail Agero - Resume Website</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  A resume website for Mikhail Agero, a passionate cybersecurity enthusiast.
 </div>
 
-<br />
-
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=mikhailagero/Mikhail-Agero-Resume-Website)
 
 ---
 
-<br />
-<br />
-
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -55,60 +45,85 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+The "Mikhail Agero - Resume Website" is a multi-page website designed to showcase the background, skills, and interests of Mikhail Agero, a cybersecurity enthusiast. The website aims to provide a comprehensive overview of Mikhail's profile and expertise in the cybersecurity field.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Detailed "About Me" section highlighting Mikhail's background and interests.
+- "Work Experience" section to showcase relevant professional experience.
+- "Skills" section listing key cybersecurity skills.
+- "Contact Me" section for easy communication.
 
 ### Technology
-<!-- TODO: List of Technology Used -->
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+- HTML for structuring the content.
+- CSS for styling and layout design.
 
-## Rules and Principles
-1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
-2. Do not rename any .html files; always use 'index.html' as the filename.
-3. File Structure to follow
 
-```
-WD-ProjectName
+```plaintext
+WD-Mikhail-Agero-Resume-Website
 └─ assets
-|   └─ css
-|   |   └─ style.css
-|   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
+   └─ css
+      └─ style.css
+   └─ img
+      └─ profile-picture.jpg
+   └─ js
+      └─ script.js
 └─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
+   └─ about
+      └─ assets
+         └─ css
+            └─ about-style.css
+         └─ img
+            └─ profile-picture.jpg
+         └─ js
+            └─ script.js
+      └─ index.html
+   └─ experience
+      └─ assets
+         └─ css
+            └─ experience-style.css
+         └─ img
+            └─ fileWith.jpeg/.jpg/.webp/.png
+         └─ js
+            └─ script.js
+      └─ index.html
+   └─ skills
+      └─ assets
+         └─ css
+            └─ skills-style.css
+         └─ img
+            └─ fileWith.jpeg/.jpg/.webp/.png
+         └─ js
+            └─ script.js
+      └─ index.html
+   └─ contact
+      └─ assets
+         └─ css
+            └─ contact-style.css
+         └─ img
+            └─ fileWith.jpeg/.jpg/.webp/.png
+         └─ js
+            └─ script.js
+      └─ index.html
 └─ index.html
-└─ readme.md
-```
 
 ## Resources
 
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| HTML5 Boilerplate | HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web applications or sites. | [HTML5 Boilerplate](https://html5boilerplate.com/) |
+| CSS Tricks - A Complete Guide to Flexbox | A comprehensive guide to Flexbox, a layout mode in CSS. | [CSS Tricks - Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |
+| W3Schools - HTML5 Tutorial | A tutorial on HTML5, covering its basics, elements, attributes, and more. | [W3Schools - HTML5 Tutorial](https://www.w3schools.com/html/) |
+| MDN Web Docs - CSS Reference | A reference guide to CSS, covering its properties, values, and more. | [MDN Web Docs - CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) |
+| Codecademy - Learn CSS | An interactive course to learn CSS. | [Codecademy - Learn CSS](https://www.codecademy.com/learn/learn-css) |
+| Traversy Media - HTML Crash Course for Busy People | A video course on HTML, covering its basics and more. | [Traversy Media - HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE) |
+| Udemy - The Complete Web Developer in 2023: Zero to Mastery | A comprehensive course on web development, covering HTML, CSS, JavaScript, and more. | [Udemy - Web Developer Course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Stack Overflow - Link All Pages to Same CSS File | Provides guidance on linking all pages to the same CSS external file. | [Stack Overflow - Link All Pages to Same CSS File](https://stackoverflow.com/questions/29788182/how-do-i-link-all-pages-to-the-same-css-external-file) |
+| GeeksforGeeks - Use CSS to Separate Content & Design | Explains how to use CSS to separate content and design in web development. | [GeeksforGeeks - Use CSS to Separate Content & Design](https://www.geeksforgeeks.org/how-to-use-css-to-separate-content-design/) |
+| Hostinger - Link CSS to HTML Files | Tutorial on linking CSS to HTML files in web development. | [Hostinger - Link CSS to HTML Files](https://www.hostinger.ph/tutorials/website/how-to-link-a-stylesheet-css-file-to-your-html-file) |
+| Canvas LMS - Add Profile Picture as a Student | Guide on adding a profile picture in Canvas LMS as a student. | [Canvas LMS - Add Profile Picture as a Student](https://community.canvaslms.com/t5/Student-Guide/How-do-I-add-a-profile-picture-in-my-user-account-as-a-student/ta-p/518) |
+| Stack Overflow - Allow Users to Add Profile Image | Discusses allowing users to add an image for their profile. | [Stack Overflow - Allow Users to Add Profile Image](https://stackoverflow.com/questions/13350781/how-to-allow-users-to-add-image-for-their-profile) |
+| Artlogic Support - Change Website User's Profile Picture | Instructions on adding or changing a website user's profile picture. | [Artlogic Support - Change Website User's Profile Picture](https://support.artlogic.net/hc/en-gb/articles/360021534400-How-to-add-change-a-Website-user-s-profile-picture) |
+| it'seeze - Structure a Successful Homepage | Tips on structuring a successful homepage for a website. | [it'seeze - Structure a Successful Homepage](https://itseeze.com/blog/how-to-structure-a-successful-homepage/) |
+| 99designs - Content Structure for Homepage | Tips on structuring content effectively for a homepage. | [99designs - Content Structure for Homepage](https://99designs.com/blog/tips/structure-content-better-homepage/) |
+| Django Forum - Redirect Pagination Page After Data Update | Discussion on redirecting pagination page after updating data in Django. | [Django Forum - Redirect Pagination Page After Data Update](https://forum.djangoproject.com/t/django-how-to-redirect-pagination-page-after-update-data/8284) |
