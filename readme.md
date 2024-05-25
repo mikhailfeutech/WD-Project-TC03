@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/mikhailagero/">
-    <img src="./assets/img/mikhailagero_logo.png" alt="Mikhail Agero" width="130" height="100">
+    <img src="./assets/image/mikhailagero_logo.png" alt="Mikhail Agero" width="130" height="100">
   </a>
   <h3 align="center">Mikhail Agero - Resume Website</h3>
 </div>
