@@ -54,7 +54,9 @@ WD-SW2-TC03
    └─ css
       └─ style.css
    └─ img
-      └─ profile-picture.jpg
+      └─mikhailagero_logo.png
+      └─ profile-picture.png
+      └─website.jpg
    └─ js
       └─ script.js
 └─ pages
@@ -64,7 +66,6 @@ WD-SW2-TC03
             └─ style.css
          └─ img
             └─ profile-picture.png
-            └─ website.jpg
          └─ js
             └─ script.js
       └─ index.html
@@ -74,7 +75,6 @@ WD-SW2-TC03
             └─ style.css
          └─ img
             └─ profile-picture.png
-            └─ website.jpg
          └─ js
             └─ script.js
       └─ index.html
@@ -84,7 +84,6 @@ WD-SW2-TC03
             └─ style.css
          └─ img
             └─ profile-picture.png
-            └─ website.jpg
          └─ js
             └─ script.js
       └─ index.html
@@ -94,7 +93,6 @@ WD-SW2-TC03
             └─ style.css
          └─ img
             └─ profile-picture.png
-            └─ website.jpg
          └─ js
             └─ script.js
       └─ index.html
