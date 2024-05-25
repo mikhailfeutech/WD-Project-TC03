@@ -49,7 +49,7 @@ The "Mikhail Agero - Resume Website" is a multi-page website designed to showcas
 
 
 ```plaintext
-WD-Mikhail-Agero-Resume-Website
+WD-SW2-TC03
 └─ assets
    └─ css
       └─ style.css
@@ -71,27 +71,30 @@ WD-Mikhail-Agero-Resume-Website
    └─ experience
       └─ assets
          └─ css
-            └─ experience-style.css
+            └─ about-style.css
          └─ img
-            └─ fileWith.jpeg/.jpg/.webp/.png
+            └─ profile-picture.png
+            └─ website.jpg
          └─ js
             └─ script.js
       └─ index.html
    └─ skills
       └─ assets
          └─ css
-            └─ skills-style.css
+            └─ about-style.css
          └─ img
-            └─ fileWith.jpeg/.jpg/.webp/.png
+            └─ profile-picture.png
+            └─ website.jpg
          └─ js
             └─ script.js
       └─ index.html
    └─ contact
-      └─ assets
+      assets
          └─ css
-            └─ contact-style.css
+            └─ about-style.css
          └─ img
-            └─ fileWith.jpeg/.jpg/.webp/.png
+            └─ profile-picture.png
+            └─ website.jpg
          └─ js
             └─ script.js
       └─ index.html
